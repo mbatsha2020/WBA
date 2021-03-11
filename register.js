@@ -23,5 +23,5 @@ function createAccount() {
     document.getElementById("reg")
     window.location.href = "./index.html";
     })
-    // .catch((e) => alert(e));
+     .catch((e) => alert(e));
     }
